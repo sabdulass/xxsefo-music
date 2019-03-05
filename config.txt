@@ -1,0 +1,6 @@
+owner=395921711763030017
+prefix=s
+game=xxsefo music
+stayinchannel=true
+songinstatus=false
+token=NTUyNTcxNzkwMzA4OTMzNjMy.D2Beug.zem2xCDMoKLYzH5yrFfImr6wbjQ
